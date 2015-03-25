@@ -1,0 +1,4 @@
+class NewsController extends AbstractActionController
+{
+
+}
