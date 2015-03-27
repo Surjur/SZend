@@ -1,4 +1,5 @@
 <?php
+    namespace plugs
     class PHPZip
     {
         private $ctrl_dir     = array();
